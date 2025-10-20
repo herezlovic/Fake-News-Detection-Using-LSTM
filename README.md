@@ -3,11 +3,6 @@
 ## 🚀 Run This Project in Google Colab
 You can run this project directly in Google Colab with GPU support — no setup required.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-# 📰 Fake News Detection using Bidirectional LSTM
-
-## 🚀 Run This Project in Google Colab
-You can run this project directly in Google Colab with GPU support — no setup required.
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rithwik-sayini/Fake-News-Detection-Using-LSTM/blob/main/Fake_News_Detection_LSTM.ipynb)
 
 ---
