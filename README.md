@@ -1,7 +1,6 @@
 ## 🚀 Run This Project in Google Colab
 Open the LSTM.ipynb and and click on google colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rithwik-sayini/Fake-News-Detection-Using-LSTM/blob/main/Fake_News_Detection_LSTM.ipynb)
 ---
 
 ## 📖 Overview
